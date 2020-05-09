@@ -1,5 +1,8 @@
-copyright: '&copy; Phantom. All rights reserved.'
+copyright: "&copy; Cohn-Weins. All rights reserved."
 links:
   - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+    url: https://www.stackbit.com
     new_window: true
+  - new_window: true
+    text: Hosted with 💙on Netlify
+    url: https://www.netlify.com
