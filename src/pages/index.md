@@ -1,6 +1,6 @@
 ---
-title: Welcome to Eli’s Birthday Picnic Extravaganza
-header: ""
+title: Eli’s Birthday Picnic Extravaganza
+header: Welcome to Eli’s Birthday Picnic Extravaganza
 menus:
   main:
     title: Home
