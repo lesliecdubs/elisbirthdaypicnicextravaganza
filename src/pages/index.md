@@ -1,5 +1,5 @@
 ---
-title: Eli’s Birthday Picnic Extravaganza
+title: Eli is turning 34
 header: Welcome to Eli’s Birthday Picnic Extravaganza
 menus:
   main:
