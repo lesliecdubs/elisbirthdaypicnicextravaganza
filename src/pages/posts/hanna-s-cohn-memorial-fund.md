@@ -16,3 +16,5 @@ From my dad, Jerry Wein:
 > One reason this project appealed to me is because Hanna started a very similar clinic while at VLSP. That clinic focused on clients who were HIV positive or who were living with AIDS. There were similar concerns about planning for the death or incapacity of a parent, especially in a time when the rights of gay couples were adversely defined.
 >
 > Hanna was a leader in pioneering the use of standby guardianships to address the needs of parents living with disabling conditions or terminal illnesses who wanted to plan a legally secure future for their children.
+
+**[Donate now >](https://www.racf.org/fund/hanna-s-cohn-memorial-fund/)**
