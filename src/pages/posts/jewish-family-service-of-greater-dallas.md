@@ -2,7 +2,7 @@
 title: Jewish Family Service of Greater Dallas
 home_style: style2
 home_img: /images/jfs.png
-date: 2020-05-09T20:43:49.932Z
+date: 2020-05-08T20:43:49.932Z
 img_src: /images/jfs-1-.jpg
 template: page
 ---
