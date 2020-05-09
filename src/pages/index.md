@@ -1,6 +1,6 @@
 ---
 title: Eli’s Birthday Picnic Extravaganza
-header: Welcome to the picnic
+header: Welcome to the best picnic ever
 menus:
   main:
     title: Home
