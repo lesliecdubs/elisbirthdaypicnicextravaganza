@@ -1,5 +1,11 @@
 copyright: "&copy; Cohn-Weins. All rights reserved."
 links:
+  - new_window: true
+    text: A project of The Joyful Belly
+    url: http://www.thejoyfulbelly.com/
+  - new_window: true
+    text: Created by Leslie Cohn-Wein
+    url: https://leslie.dev
   - text: Made with Stackbit
     url: https://www.stackbit.com
     new_window: true
